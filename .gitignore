@@ -1,0 +1,48 @@
+# Object files
+*.o
+*.ko
+*.dSYM
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+main
+
+# Compressed Files
+*.zip
+*.bz2
+*.xz
+*.7z
+*.rar
+
+# Test artefacts
+tmp*
+NUL
+
+# Build artefacts
+projects/
+bin/
+.buckd/
+buck-out/
+nimcache/
+
+# Other files
+.directory
+_codelite/
+.clang_complete
+*.idea
+*.swp
+.DS_Store
+*.d
+*~
