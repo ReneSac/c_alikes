@@ -1,6 +1,6 @@
 # Package
 
-version       = "0.1.0"
+version       = "0.2.0"
 author        = "ReneSac"
 description   = "Operators, commands and functions more c-like, plus a few other utilities"
 license       = "MIT"
